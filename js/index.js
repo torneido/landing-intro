@@ -1,5 +1,12 @@
 
-alert("Hola Mundo!");
+alert("Saludo");
+
+console.log();
+
+var Saludo = "Hola mundo";
 
 
-alert("Soy el primer script");
+
+var ran
+ran = Math.round(Math.random()*50000)
+document.write("Usted es el visitante " + ran + " de esta página.");
