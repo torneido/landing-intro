@@ -374,7 +374,7 @@ a {
    
 }
 
-.card{
+.card1 .card2 .card3 {
     margin:50%;
 }
 
@@ -396,3 +396,37 @@ a {
     text-align: center;  
 
 }
+
+
+
+
+footer {
+    margin: auto;
+    width: 100%;
+    color: black;
+    height:80px;
+}
+
+.container .card1 img{
+
+    width: 300px;
+    height: 500px;
+ }
+
+ .container .card2 img{
+
+    width: 300px;
+    height: 500px;
+ }
+
+.container .card3 img{
+
+    width: 300px;
+    height: 500px;
+ }
+
+ .contenedor .panda {
+
+    text-align: center;
+    justify-content: center;
+ }
